@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MMUProject</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/com/hit/config/Configuration.json</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/%D7%A2%D7%91%D7%95%D7%93%D7%94%203/Configuration.json</locationURI>
+		</link>
+		<link>
+			<name>src/main/resources/com/hit/config/Configuration1.json</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/%D7%A2%D7%91%D7%95%D7%93%D7%94%203/Configuration1.json</locationURI>
+		</link>
+		<link>
+			<name>src/main/resources/com/hit/config/Configuration2.json</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/%D7%A2%D7%91%D7%95%D7%93%D7%94%203/Configuration2.json</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
